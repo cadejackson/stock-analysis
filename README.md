@@ -20,6 +20,8 @@
 
 ![Original Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202018.png) ![Refactored Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202018.png)
 
-####
-
 ## Summary
+
+#### In this project the original VBA code was refactored in order to improve performance.  When deciding whether to refactor or not one should consider the future of the project and if it will get more complex with addtional updates.  Refactored and simplified code can make future updates much easier to implement.  One must also weigh the project goals when deciding whether to refactor or not.  If a product needs to meet a hard deadline then it is advisable to forego refactoring in order to meet the deadline by submittign a working product.  The code could then be refactored at a later time if necessary and if time allows.  
+
+When considering refactoring specifically for a VBA script, a lot of the statements from the previous paragraph still apply.  If you will be executing code on large datasets with hundreds of thousands of rows then it would be a good idea to refactor your code for performance imporvement reasons to save time in the future.  For simple VBA scripts that perform routine tasks that do not take long ot execute or take up much memory it is probably not worth your time to refactor the code.  Since VBA is limited to excel the projects in general will most likely be smaller where refactoring may not be necessary.
