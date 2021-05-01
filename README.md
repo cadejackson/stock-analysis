@@ -8,13 +8,21 @@
 
 ### Stock Analysis
 
-![2017 Stock Analysis](/stock-analysis/Resources/2017 Stock Analysis.png)
+![2017 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
 
-![2018 Stock Analysis](/stock-analysis/Resources/2018 Stock Analysis.png)
+![2018 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
 
 ####
 
 ### Code Performance
+
+![Original Code 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202017.png)
+
+![Refactored COde 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202017.png)
+
+![Original Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202018.png)
+
+![Refactored Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202018.png)
 
 ####
 
