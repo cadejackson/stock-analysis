@@ -16,13 +16,9 @@
 
 ### Code Performance
 
-![Original Code 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202017.png)
+![Original Code 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202017.png) ![Refactored Code 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202017.png)
 
-![Refactored COde 2017](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202017.png)
-
-![Original Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202018.png)
-
-![Refactored Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202018.png)
+![Original Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Original%20Code%202018.png) ![Refactored Code 2018](https://github.com/cadejackson/stock-analysis/blob/main/Resources/Refactored%20Code%202018.png)
 
 ####
 
