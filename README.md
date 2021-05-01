@@ -8,9 +8,9 @@
 
 ### Stock Analysis
 
-!(2017 Stock Analysis)[/Resources/2017 Stock Analysis.png]
+![2017 Stock Analysis](/Resources/2017 Stock Analysis.png)
 
-!(2018 Stock Analysis)[/Resources/2018 Stock Analysis.png]
+![2018 Stock Analysis](/Resources/2018 Stock Analysis.png)
 
 ####
 
