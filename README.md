@@ -8,9 +8,7 @@
 
 ### Stock Analysis
 
-![2017 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
-
-![2018 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
+![2017 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png) ![2018 Stock Analysis](https://github.com/cadejackson/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
 
 ####
 
